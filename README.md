@@ -1,2 +1,2 @@
-# Artificial_intelligence_portfolio
-A repo to showcase my work in artificial intelligence
+# Projects and exercises done in the Data Structures with python course
+A repo to showcase my work with data structures
